@@ -1,0 +1,8 @@
+pipeline {
+agent any 
+stages {
+stages {
+stage ('build'){
+steps {
+echo "hello world!"
+}}}}
